@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "components/AppDownload"
+		},
+		{
+			"path": "components/ExploreMenu"
+		},
+		{
+			"path": "components/FoodDisplay"
+		},
+		{
+			"path": "components/FoodItem"
+		},
+		{
+			"path": "components/Footer"
+		},
+		{
+			"path": "components/Header"
+		},
+		{
+			"path": "components/LoginPopup"
+		},
+		{
+			"path": "components/Navbar"
+		}
+	]
+}
